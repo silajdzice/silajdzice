@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Edhem 👋</h1>
-<h3 align="center">Senior iOS Developer · Fintech & MusicTech · Sarajevo, BiH</h3>
+<h3 align="center">Senior iOS Developer · FinTech & MusicTech · Sarajevo, BiH</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edhemsilajdzic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,17 +19,17 @@
 let edhem = Developer(
     role: "iOS Developer",
     company: "Ministry of Programming",
-    experience: 7,
+    experience: 8,
     location: "Sarajevo, Bosnia & Herzegovina",
-    focus: ["FinTech", "MusicTech", "Clean Architecture"],
-    currentlyBuilding: ["Amuse", "NAGA", "Multibank"]
+    focus: ["FinTech", "MusicTech", "Clean Architecture", "Spec-Driven Development"],
+    currentlyBuilding: ["Amuse"]
 )
 ```
 
-- 📱 7+ years crafting **production iOS apps** used by hundreds of thousands of people
+- 📱 8+ years crafting **production iOS apps** used by hundreds of thousands of people
 - 💸 Built trading & investment platforms serving **320,000+ users across 90 countries**
 - 🎵 Helping democratize music distribution for **independent artists** at Amuse
-- 🧱 Obsessed with **Clean Architecture**, **MVVM-C**, and well-tested code (**85%+ coverage**)
+- 🧱 Obsessed with **Clean Architecture**, **MVVM-C**, **Spec-Driven Development**, and well-tested code (**85%+ coverage**)
 - 🎓 Mentor junior devs on **SwiftUI**, **Combine**, and reactive programming
 - 🤖 **Early AI adopter** — power user of **Claude Code**, Cursor, and the modern AI dev stack
 - 📬 Reach me at **edhemdev@gmail.com**
@@ -112,7 +112,7 @@ let edhem = Developer(
 | 💹 **[Multibank](https://multibankfx.com/)** | FinTech | UIKit · Clean Architecture | High-frequency trading apps for derivatives marketplace ($322M capital) |
 
 **Highlights**
-- 📲 Shipped **3+ iOS apps** to the App Store with **98% crash-free rate**
+- 📲 Shipped **10+ iOS apps** to the App Store with **98% crash-free rate**
 - ⚡️ Improved app launch time by **40%**, cut memory usage by **25%**
 - 🧪 Maintained **85%+ unit test coverage** on production codebases
 - 🧹 Reduced technical debt by **35%** via Clean Architecture refactors
@@ -123,16 +123,7 @@ let edhem = Developer(
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silajdzice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silajdzice&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silajdzice&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=silajdzice&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=silajdzice&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
