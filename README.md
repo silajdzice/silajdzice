@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edhemsilajdzic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:edhemdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:silajdziced@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Sarajevo,_BiH-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Location"/>
 </p>
 
@@ -32,7 +32,7 @@ let edhem = Developer(
 - 🧱 Obsessed with **Clean Architecture**, **MVVM-C**, **Spec-Driven Development**, and well-tested code (**85%+ coverage**)
 - 🎓 Mentor junior devs on **SwiftUI**, **Combine**, and reactive programming
 - 🤖 **Early AI adopter** — power user of **Claude Code**, Cursor, and the modern AI dev stack
-- 📬 Reach me at **edhemdev@gmail.com**
+- 📬 Reach me at **silajdziced@gmail.com**
 
 ---
 
@@ -134,7 +134,7 @@ let edhem = Developer(
   <a href="https://www.linkedin.com/in/edhemsilajdzic/">
     <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:edhemdev@gmail.com">
+  <a href="mailto:silajdziced@gmail.com">
     <img src="https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
